@@ -70,4 +70,5 @@ function writePassword() {
 
   passwordText.value = password;
 }
+
 generateButton.addEventListener("click", generatePassword);
